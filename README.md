@@ -8,7 +8,7 @@ Ideal para dar aquele toque profissional e visual no terminal, com timestamps co
 ## 🚀 Instalação
 
 ```bash
-pip install git+https://github.com/GussApenas/colorlogger.git
+pip install git+https://github.com/GussApenas/colorlogger
 ```
 
 ---
