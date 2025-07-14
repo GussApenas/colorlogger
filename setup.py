@@ -5,7 +5,7 @@ setup(
     version='1.0.0',
     description='Logger colorido, contextual e simples para Python',
     author='Guss',
-    author_email='agussdev@gmail.com',
+    author_email='agussdevoficial@gmail.com',
     url='https://github.com/GussApenas/colorlogger',
     packages=find_packages(),
     python_requires='>=3.6',
