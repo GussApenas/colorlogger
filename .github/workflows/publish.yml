@@ -9,6 +9,7 @@ jobs:
   build-and-publish:
     name: Build e Publicar
     runs-on: ubuntu-latest
+    environment: pypi
 
     steps:
       - name: 📥 Clonar o repositório
