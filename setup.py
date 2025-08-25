@@ -6,7 +6,7 @@ setup(
     description='Logger colorido, contextual e simples para Python',
     author='Guss',
     author_email='agussdevoficial@gmail.com',
-    url='https://github.com/GussApenas/colorlogger',
+    url='https://github.com/GussApenas/chromalogger',
     packages=find_packages(),
     python_requires='>=3.6',
     classifiers=[
