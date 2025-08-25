@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='colorlogger',
+    name='chromalogger',
     version='1.0.0',
     description='Logger colorido, contextual e simples para Python',
     author='Guss',
