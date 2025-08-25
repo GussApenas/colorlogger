@@ -11,6 +11,12 @@ Ideal para dar aquele toque profissional e visual no terminal, com timestamps co
 pip install git+https://github.com/GussApenas/chromalogger
 ```
 
+**Ou:**
+
+```bash
+pip install chromalogger
+```
+
 ---
 
 ## 💡 Por que usar `chromalogger`?
