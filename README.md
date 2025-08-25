@@ -1,4 +1,4 @@
-# 🎨 colorlogger
+# 🎨 chromalogger
 
 Um logger colorido, contextual e super fácil de usar para Python.  
 Ideal para dar aquele toque profissional e visual no terminal, com timestamps configuráveis e logs gravados em arquivo.
@@ -8,12 +8,12 @@ Ideal para dar aquele toque profissional e visual no terminal, com timestamps co
 ## 🚀 Instalação
 
 ```bash
-pip install git+https://github.com/GussApenas/colorlogger
+pip install git+https://github.com/GussApenas/chromalogger
 ```
 
 ---
 
-## 💡 Por que usar `colorlogger`?
+## 💡 Por que usar `chromalogger`?
 
 - Logs coloridos e fáceis de ler no terminal  
 - Timestamp configurável (padrão para horário do Brasil UTC−3)  
@@ -26,7 +26,7 @@ pip install git+https://github.com/GussApenas/colorlogger
 ## 🧰 Como usar
 
 ```python
-from colorlogger import log
+from chromalogger import log
 
 # Log simples com timestamp padrão (Brasil UTC-3)
 log.info("Servidor iniciado")
@@ -73,8 +73,8 @@ log.to_file("Mensagem salva no arquivo", file="logs/app.log", level="INFO")
 
 ## 🤝 Contribua!
 
-Quer ajudar a melhorar o `colorlogger`?  
-Sinta-se à vontade para abrir issues e pull requests no [GitHub](https://github.com/GussApenas/colorlogger)!
+Quer ajudar a melhorar o `chromalogger`?  
+Sinta-se à vontade para abrir issues e pull requests no [GitHub](https://github.com/GussApenas/chromalogger)!
 
 ---
 
